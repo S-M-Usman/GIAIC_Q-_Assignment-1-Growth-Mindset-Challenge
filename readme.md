@@ -43,7 +43,7 @@ streamlit run app.py
 The app will launch in your browser at **http://localhost:8501** 🎉
 
 ## 📌 Live Demo
-Check out the live version deployed on **Streamlit Share**: [DataSweeper Live](#) *(Add your deployed link here)*
+Check out the live version deployed on **Streamlit Share**: [DataSweeper Live](https://growthmindsetchallange-datasweeper.streamlit.app/) 
 
 ## 📜 Contribution Guidelines
 Want to improve **DataSweeper**? Contributions are welcome! Feel free to:
